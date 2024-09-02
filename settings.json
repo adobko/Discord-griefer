@@ -1,0 +1,18 @@
+{
+    "credentials": {
+        "login": "",
+        "username": "",
+        "password": ""
+    },
+    "options": {
+        "banning": {
+            "ban": true,
+            "whitelisted_usernames": []
+        },
+        "spamming": {
+            "spam": false,
+            "messages_to_spam": ["Hello world!"],
+            "repeat": -1 
+        }
+    }
+}
